@@ -13,8 +13,8 @@ body {
   font-family: "Estonia", cursive;
 }
 section {
-  overflow-x: hidden;
-  box-sizing: border-box;
+
+ 
   color: yellow;
   font-family: "Estonia", cursive;
 }
@@ -27,7 +27,7 @@ section {
 }
 .logo img {
   width: 150px;
-  height: 150px;
+
 }
 
 .text h1 {
@@ -38,12 +38,13 @@ section {
   margin-bottom: 20px;
 }
 .img {
-  margin: 30px;
+
   text-align: center;
+  padding: 70px;
 }
 .img img {
   width: 100%;
-  height: 350px;
+
 }
 
 .contact {
@@ -77,6 +78,15 @@ section {
 .sub-contact p {
   font-weight: bolder;
   font-size: 40px;
+}
+.fb i{
+  color: yellow;
+  font-size: 30px;
+
+}
+.fb  a:hover{
+  color:white;
+  
 }
 
 .order h1 {
